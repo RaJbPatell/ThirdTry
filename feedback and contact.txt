@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Feedback</title>
+  </head>
+  <body><br  />
+  <h1><center>Thank you so much for your precious time!!</center></h1>
+
+
+
+  </body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Contact me:</title>
+  </head>
+  <body>
+    <h1>my contact details</h1>
+<p>my email address</p>
+<p>my phone number</p>
+    <p>username</p>
+  </body>
+</html>

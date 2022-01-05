@@ -1,0 +1,139 @@
+body {
+  background-color: #CDDEFF;
+  font-family: 'Merriweather', serif;
+  padding: 50px 0 0;
+  margin: auto;
+}
+.social-media{
+
+  color:#66806A;
+  text-decoration: none;
+  position: absolute;
+  padding:1% 20.5% 0;
+  left:600px;
+
+}
+
+.social{
+  color:#66806A;
+  text-decoration: none;
+  position: absolute;
+  padding:1% 0 0;
+  left:400px;
+}
+.tweet{
+  color:#66806A;
+  text-decoration: none;
+  position: absolute;
+  padding:1% 10.5% 0;
+  left:500px;
+
+}
+.feedback{
+  color:#406882;
+  padding-top: 4%;
+}
+.bottom{
+  background-color: #97BFB4;
+  width: auto;
+  height: 80px;
+
+
+}
+a:hover{
+  color: #D3E4CD;
+}
+.copyright{
+  color:#D3E4CD;
+  font-size: 0.7rem;
+  position: absolute;
+  padding:3% 38.5% 0;
+
+
+
+}
+
+.love{
+  position: absolute;
+  right: 200px;
+  top: 100px;
+}
+.jesusfoto{
+  width: auto;
+  height: 20%;
+    position: absolute;
+    right:1000px;
+    top:400px;
+}
+h1 {
+  display: block;
+  font-family: 'Lora', serif;
+  font-size: 2rem;
+  color: #35858B;
+  text-align: center;
+  top: 10%;
+
+
+
+}
+h2 {
+  font-family: 'Lora', serif;
+  display: block;
+  margin: auto;
+  line-height: 2;
+  color: #35858B;
+  padding-bottom: 2%;
+}
+h4 {
+  font-family: 'Lora', serif;
+  display: block;
+  color: #3E8E7E;
+}
+h5 {
+  font-family: 'Lora', serif;
+  display: block;
+  margin: auto;
+  color: #66806A;
+  padding-bottom: 2%;
+}
+.god{
+  color:#6998AB;
+width: 600px;
+height: auto;
+margin: auto;
+line-height: 2;
+padding-top: 2%;
+padding-bottom: 2%;
+
+}
+.sentence{
+  color:#66806A;
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+  padding-bottom: 4%;
+  padding-top: 2;
+}
+.fear{
+  line-height: 4;
+}
+a{
+  text-decoration: none;
+}
+
+
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 10px;
+  font-family: Georgia;
+  color: white;
+  font-size: 16px;
+  background: #97BFB4;
+
+margin:auto;
+width:100px;
+
+
+}
